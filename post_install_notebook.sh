@@ -1,6 +1,7 @@
 #!/bin/bash
 clear
 
+#region TODO
 # todo: fazer share
 # ! sudo ufw allow samba
 # ! TODO: repositorio linux mint sendo adicionado, cada vez que se usa a função
@@ -8,7 +9,7 @@ clear
 # todo: zsh e o-my-zsh
 # todo: descobrir se está no notebook ou não para instalar o auto-cpufreq
 # todo: set amd virtualization settings
-
+#endregion
 
 #region VARIABLES
     CURR_DIR=''
